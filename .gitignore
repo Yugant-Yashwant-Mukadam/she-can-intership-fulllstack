@@ -1,0 +1,16 @@
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Frontend dependencies & builds (just in case they aren't ignored inside the frontend folder)
+**/node_modules/
+**/dist/
+**/build/
+
+# Backend build files
+**/target/
